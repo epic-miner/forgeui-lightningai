@@ -40,11 +40,11 @@ Ensure that you are using a Linux-based operating system with `apt` as the packa
    You can download the pre-trained models from [Hugging Face](https://huggingface.co):
    - [Flux1-dev-bnb-nf4-v2](https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4-v2.safetensors)
      ```bash
-     wget -O flux1-dev-bnb-nf4-v2.safetensors https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4-v2.safetensors
+     wget -O flux1-dev-bnb-nf4-v2.safetensors https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/resolve/main/flux1-dev-bnb-nf4-v2.safetensors
      ```
    - [Flux1-dev-fp8](https://huggingface.co/lllyasviel/flux1_dev/blob/main/flux1-dev-fp8.safetensors)
      ```bash
-     wget -O flux1-dev-fp8.safetensors https://huggingface.co/lllyasviel/flux1_dev/blob/main/flux1-dev-fp8.safetensors
+     wget -O flux1-dev-fp8.safetensors https://huggingface.co/lllyasviel/flux1_dev/resolve/main/flux1-dev-fp8.safetensors
      ```
 
 ## How It Works
