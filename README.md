@@ -17,18 +17,18 @@ Ensure that you are using a Linux-based operating system with `apt` as the packa
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/stable-diffusion-setup-script.git
-   cd stable-diffusion-setup-script
+   https://github.com/epic-miner/forgeui-lightningai.git
+   cd forgeui-lightningai.git
    ```
 
 2. **Make the script executable:**
    ```bash
-   chmod +x setup_stable_diffusion.sh
+   chmod +x *
    ```
 
 3. **Run the setup script:**
    ```bash
-   ./setup_stable_diffusion.sh
+   sh start.sh
    ```
 
 4. **Download the Models:**
