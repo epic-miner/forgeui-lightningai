@@ -15,9 +15,6 @@ Ensure that you are using a Linux-based operating system with `apt` as the packa
 
 ## Installation and Setup
 
-## For colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epic-miner/forgeui-lightningai/blob/main/Untitled10.ipynb)
-
 ## For Lightning AI
 
 1. **Clone this repository:**
