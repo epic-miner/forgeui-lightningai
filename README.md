@@ -23,7 +23,7 @@ Ensure that you are using a Linux-based operating system with `apt` as the packa
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/epic-miner/forgeui-lightningai.git
-   cd forgeui-lightningai.git
+   cd forgeui-lightningai
    ```
 
 2. **Make the script executable:**
