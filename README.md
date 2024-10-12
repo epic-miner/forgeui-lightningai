@@ -62,7 +62,7 @@ The `setup_stable_diffusion.sh` script performs the following steps:
 
 ## Resources
 - [Stable Diffusion WebUI Forge Repository](https://github.com/lllyasviel/stable-diffusion-webui-forge)
-- [Video Tutorial](https://youtu.be/Qe_-3wl8USw?si=JM1Ho5I_8CCLHWOB)
+- [Video Tutorial](https://youtu.be/6Hpo2UBUmAE)
 - [Discussions on WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/981)
 - [Download Model (Flux1-dev-bnb-nf4-v2)](https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4-v2.safetensors)
 - [Download Model (Flux1-dev-fp8)](https://huggingface.co/lllyasviel/flux1_dev/blob/main/flux1-dev-fp8.safetensors)
