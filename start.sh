@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Update package lists
-sudo apt-get update
+sudo apt-get update && pip install insightface
 
 # Install pip if not already installed
 if ! command -v pip &> /dev/null; then
