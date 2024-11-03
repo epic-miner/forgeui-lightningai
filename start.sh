@@ -32,5 +32,5 @@ else
 fi
 
 # Launch the application with sharing enabled
-python launch.py --share
+python launch.py
 
