@@ -31,6 +31,6 @@ else
     cd "$REPO_DIR"
 fi
 
-# Launch the application with sharing enabled
+# Launch the application
 python launch.py
 
